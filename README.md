@@ -13,4 +13,6 @@
 --->
 Check out my advanced course: [How To Exit Vim](https://youtu.be/dQw4w9WgXcQ)
 
+Claim free bitcoins at [freebitcoins.vedang.dev](https://freebitcoins.vedang.dev)
+
 ![](https://komarev.com/ghpvc/?username=vedangwartikar)
