@@ -15,4 +15,5 @@ Check out my advanced course: [How To Exit Vim](https://youtu.be/dQw4w9WgXcQ)
 
 Claim free bitcoins at [freebitcoins.vedang.dev](https://freebitcoins.vedang.dev)
 
-![](https://komarev.com/ghpvc/?username=vedangwartikar)
+![](https://komarev.com/ghpvc/?username=vedangwartikar) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
